@@ -44,7 +44,7 @@ You are all set! 🎉
 
 
 ## Proposed Solution
-```bash
+```
 1. Obtain extended output from a general pre-trained LLM (e.g., Chat GPT, LLAMA)
 2. Utilize a Bert-GPT Encoder-Decoder model to produce summaries of the generated content
 3. Employ a BART sequence-to-sequence model to generate prompts
