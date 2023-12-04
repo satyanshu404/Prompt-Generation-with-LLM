@@ -1,0 +1,9 @@
+datasets
+evaluate
+torch
+nltk
+rank_bm25
+transformers
+rouge-score
+accelerate
+ir-datasets
